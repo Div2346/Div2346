@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on ... Data Analytics
+- 🌱 I’m currently learning ... Big Data
+- 💬 Ask me about ... Data Analytics, Machine Learning, Deep Learning, Quantum Computing
+- 📫 How to reach me: ... dvnsh2312@gmail.com
+- ⚡ Fun fact: ... I love Rajma Rice!
