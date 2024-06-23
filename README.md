@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Divyanshi!
 
 <!--
 **Div2346/Div2346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ... Data Analytics
-- 🌱 I’m currently learning ... Big Data
+- 🔭 An aspiring Machine Learning Engineer, learning new stuff everyday
+- 🎓 Studying B.Tech. Computer Science and Engineering - Data Science, ML and AI at Lovely Professional University
+- 🌱 I’m currently learning Big Data while undergoing my summer training
 - 💬 Ask me about ... Data Analytics, Machine Learning, Deep Learning, Quantum Computing
-- 📫 How to reach me: ... dvnsh2312@gmail.com
+- 📫 Reach out to me at: dvnsh2312@gmail.com
 - ⚡ Fun fact: ... I love Rajma Rice!
