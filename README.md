@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Data Analytics, Machine Learning, Deep Learning, Quantum Computing
 - 📫 Reach out to me at: dvnsh2312@gmail.com
 - ⚡ Fun fact: ... I love Rajma Rice!
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Div2346)](https://github.com/Div2346/github-readme-stats)
