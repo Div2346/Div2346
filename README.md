@@ -2,8 +2,9 @@
 
 
 <div style="display: flex; align-items: center;">
-  
+  <span>
   <img src="https://div2346.github.io/Bonjour/hello.svg"></img>
+    <span>
 </div>
 
 <!--
