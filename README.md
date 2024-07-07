@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
  # 💫 About Me:
 🔭 An aspiring Machine Learning Engineer, learning new stuff everyday<br>🎓 Studying B.Tech. Computer Science and Engineering - Data Science, ML and AI at Lovely Professional University<br>🌱 I’m currently learning Big Data while undergoing my summer training<br>💬 Ask me about ... Data Analytics, Machine Learning, Deep Learning, Quantum Computing<br>📫 Reach out to me at: dvnsh2312@gmail.com<br>⚡ Fun fact: ... I love Rajma Rice!
-# Hi, I'm Divyanshi!
+
 
 
 
