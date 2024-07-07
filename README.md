@@ -1,9 +1,9 @@
 
-# Hi, I'm Divyanshi!
+
 
 <div style="display: flex; align-items: center;">
   <span style="font-size: 24px; margin-right: 10px;">Hi, I'm Divyanshi!</span>
-  <img src="https://div2346.github.io/Bonjour/hello.svg" width="200" height="200" style="border:none;"></img>
+  <img src="https://div2346.github.io/Bonjour/hello.svg"></img>
 </div>
 
 <!--
