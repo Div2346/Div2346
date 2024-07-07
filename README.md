@@ -18,6 +18,47 @@ Here are some ideas to get you started:
 
  # 💫 About Me:
 🔭 An aspiring Machine Learning Engineer, learning new stuff everyday<br>🎓 Studying B.Tech. Computer Science and Engineering - Data Science, ML and AI at Lovely Professional University<br>🌱 I’m currently learning Big Data while undergoing my summer training<br>💬 Ask me about ... Data Analytics, Machine Learning, Deep Learning, Quantum Computing<br>📫 Reach out to me at: dvnsh2312@gmail.com<br>⚡ Fun fact: ... I love Rajma Rice!
+# Hi, I'm Divyanshi!
+
+<div style="display: flex; align-items: center;">
+  <span style="font-size: 24px; margin-right: 10px;">Hi, I'm Divyanshi!</span>
+  <svg id="fractalTree" width="100" height="100" viewBox="0 0 100 100"></svg>
+</div>
+
+<script>
+  const svg = document.getElementById('fractalTree');
+  const namespace = "http://www.w3.org/2000/svg";
+
+  function createFractalTree(x1, y1, angle, depth) {
+    if (depth === 0) return;
+    
+    const x2 = x1 + Math.cos(angle) * depth * 10.0;
+    const y2 = y1 + Math.sin(angle) * depth * 10.0;
+    
+    const line = document.createElementNS(namespace, 'line');
+    line.setAttribute('x1', x1);
+    line.setAttribute('y1', y1);
+    line.setAttribute('x2', x2);
+    line.setAttribute('y2', y2);
+    line.setAttribute('stroke', 'black');
+    
+    svg.appendChild(line);
+    
+    createFractalTree(x2, y2, angle - 0.52, depth - 1);
+    createFractalTree(x2, y2, angle + 0.52, depth - 1);
+  }
+
+  function changeTreePattern() {
+    while (svg.firstChild) {
+      svg.removeChild(svg.firstChild);
+    }
+    createFractalTree(50, 100, -Math.PI / 2, 7);
+  }
+
+  changeTreePattern();
+  setInterval(changeTreePattern, 5000);
+</script>
+
 
 
 # 💻 Tech Stack:
