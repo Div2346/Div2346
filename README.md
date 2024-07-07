@@ -3,7 +3,7 @@
 
 <div style="display: flex; align-items: center;">
   <span style="font-size: 24px; margin-right: 10px;">Hi, I'm Divyanshi!</span>
-  <img src="https://div2346.github.io/fractal-tree/fractalize.png" width="200" height="200" style="border:none;"></img>
+  <img src="https://div2346.github.io/fractal-tree/index.html" width="200" height="200" style="border:none;"></img>
 </div>
 
 <!--
@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
  # 💫 About Me:
 🔭 An aspiring Machine Learning Engineer, learning new stuff everyday<br>🎓 Studying B.Tech. Computer Science and Engineering - Data Science, ML and AI at Lovely Professional University<br>🌱 I’m currently learning Big Data while undergoing my summer training<br>💬 Ask me about ... Data Analytics, Machine Learning, Deep Learning, Quantum Computing<br>📫 Reach out to me at: dvnsh2312@gmail.com<br>⚡ Fun fact: ... I love Rajma Rice!
