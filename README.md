@@ -3,7 +3,7 @@
 
 <div style="display: flex; align-items: center;">
   <span style="font-size: 24px; margin-right: 10px;">Hi, I'm Divyanshi!</span>
-  <vid src="https://div2346.github.io/fractal-tree/" width="200" height="200" style="border:none;"></vid>
+  <img src="https://div2346.github.io/fractal-tree/fractalize.png" width="200" height="200" style="border:none;"></img>
 </div>
 
 <!--
