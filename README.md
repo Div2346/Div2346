@@ -4,7 +4,7 @@
 <div style="display: flex; align-items: center;">
   <span>
   <img src="https://div2346.github.io/Bonjour/hello.svg"></img>
-    [!video]("https://div2346.github.io/Fractals/Untitled video - Made with Clipchamp.gif")
+  
     <span>
 </div>
 
